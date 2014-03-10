@@ -1,0 +1,23 @@
+{
+    "name": "scroll2Top",
+    "title": "jQuery - scroll2Top()",
+    "description": "A simple customizable plugin for scrolling back to top of page.",
+    "keywords": [
+        "back2top",
+        "backtotop",
+        "scroll2top",
+        "scrolltotop"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Arturo Simon",
+        "email": "artysimon@gmail.com"
+    },
+    "licenses": [{
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+    }],
+    "dependencies": {
+        "jquery": ">=1.7.0"
+    }
+}

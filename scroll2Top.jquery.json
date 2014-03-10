@@ -19,5 +19,11 @@
     }],
     "dependencies": {
         "jquery": ">=1.7.0"
-    }
+    },
+
+    "homepage": "https://github.com/artimys/scroll2Top",
+    "demo": "https://github.com/artimys/scroll2Top",
+    "docs": "https://github.com/artimys/scroll2Top",
+    "download": "https://github.com/artimys/scroll2Top/archive/master.zip",
+    "bugs": "https://github.com/artimys/scroll2Top/issues"
 }
